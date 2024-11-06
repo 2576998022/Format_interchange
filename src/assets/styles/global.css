@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-header {
+  padding: 0 20px;
+  height: 60px !important;
+}
+
+.el-main {
+  padding: 20px;
+}
+
+.el-footer {
+  padding: 20px;
+} 
